@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Created by nullice on 2019/01/03 - 10:56
 const { exec } = require("child_process")
 const path = require("path")
