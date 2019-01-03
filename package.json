@@ -1,0 +1,14 @@
+{
+    "name": "exec-x",
+    "version": "1.0.0",
+    "description": "exec command with dynamic script",
+    "main": "index.js",
+    "bin": {
+        "exec-x": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "ui@nulliec.com",
+    "license": "MIT"
+}
