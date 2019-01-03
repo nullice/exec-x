@@ -36,7 +36,7 @@ npm i -D exec-c
 
 
 ### change npm script current working directory
-1, add `execPath` into package.json
+1. add `execPath` into package.json
 2. use `exec-x` in npm secript 
 
 **package.json:**
