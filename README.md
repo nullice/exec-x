@@ -1,4 +1,4 @@
-# exec-x 🦀
+# 🦀 exec-x 
 dynamically execute commands in npm script with variables .
 
 
