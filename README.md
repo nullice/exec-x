@@ -43,7 +43,7 @@ npm i -D exec-c
 ```diff
     "name": "YOU-MODULES"
 +   "execPath": "./../../",
-    "npm ": {
+    "scripts": {
         "dev": "exec-x \"cross-env Cells_EE_DIR={{project}} npm run dev  \"",
     },
 
